@@ -54,6 +54,7 @@ NODES=(
 	"https://github.com/cubiq/ComfyUI_FaceAnalysis"
 	"https://github.com/un-seen/comfyui-tensorops"
         "https://github.com/civitai/civitai_comfy_nodes"
+	"https://github.com/balazik/ComfyUI-PuLID-Flux"
 	
  
 )
